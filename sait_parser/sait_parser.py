@@ -73,7 +73,18 @@ def get_content(html):
                     card_place = v
 
             # Проблемное место
-            card_name.replace("\\xa0", " ")
+            card_name = card_name.replace('\xa0', ' ')
+
+            card_address = parse_page_place(card_page_url)
+            try:
+                index_address = card_address.index("еще")
+            except:
+                index_address = None
+
+            try:
+                index_date = card_date.index(" и ещё")
+            except:
+                index_date = None
 
             # Добавляем данные в массив мероприятий
             event_list.append(
@@ -83,8 +94,8 @@ def get_content(html):
                     "event_price": card_price,
                     "event_name": card_name,
                     "event_place": card_place,
-                    "event_address": parse_page_place(card_page_url),
-                    "event_date": card_date
+                    "event_address": card_address[:index_address],
+                    "event_date": card_date[:index_date]
                 }
             )
     except Exception as e:

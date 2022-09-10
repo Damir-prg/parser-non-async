@@ -3,19 +3,19 @@
         "event_url": "https://www.culture.ru/events/1777856/master-klass-zalivka-i-rospis-gipsovykh-figur",
         "event_img_url": "https://cdn.culture.ru/images/92b47c6e-4b58-519b-abff-b16de3663612",
         "event_price": 250,
-        "event_name": "Мастер-класс «Заливка и роспись гипсовых фигур»",
+        "event_name": "Мастер-класс «Заливка и роспись гипсовых фигур»",
         "event_place": "",
         "event_address": "Респ. Татарстан, г. Альметьевск, Альметьевский р-н., ул. Шевченко, д. 162А",
-        "event_date": "До 31 декабря 2022 и ещё 121 показ"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1673935/master-klass-brelok-iz-epoksidnoi-smoly-vdokhnovenie",
         "event_img_url": "https://cdn.culture.ru/images/37845b64-22ba-5bf1-8b56-880715510aa5",
         "event_price": 300,
-        "event_name": "Мастер-класс «Брелок из эпоксидной смолы «Вдохновение»",
+        "event_name": "Мастер-класс «Брелок из эпоксидной смолы «Вдохновение»",
         "event_place": "",
         "event_address": "Респ. Татарстан, г. Альметьевск, Альметьевский р-н., ул. Шевченко, д. 162А",
-        "event_date": "До 31 декабря 2022 и ещё 121 показ"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1573829/master-klass-braslet-ispolnenie-zhelanii",
@@ -24,7 +24,7 @@
         "event_name": "Мастер-класс «Браслет «Исполнение желаний»",
         "event_place": "",
         "event_address": "Респ. Татарстан, г. Альметьевск, Альметьевский р-н., ул. Шевченко, д. 162А",
-        "event_date": "До 31 декабря 2022 и ещё 121 показ"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1740467/tvorcheskii-master-klass-svecha-aromat-leta",
@@ -33,43 +33,7 @@
         "event_name": "Творческий мастер-класс «Свеча «Аромат лета»",
         "event_place": "",
         "event_address": "Респ. Татарстан, г. Альметьевск, Альметьевский р-н., ул. Шевченко, д. 162А",
-        "event_date": "До 31 декабря 2022 и ещё 120 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1358406/vystavka-tyurkskikh-muzykalnykh-instrumentov",
-        "event_img_url": "https://cdn.culture.ru/images/d13ba44f-a06b-5113-9ae1-acea53ba120f",
-        "event_price": 50,
-        "event_name": "Выставка тюркских музыкальных инструментов",
-        "event_place": "АНО «Академия цифрового творчества»",
-        "event_address": "Академия цифрового творчества",
-        "event_date": "До 10 сентября 2022 и ещё 3 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1341184/postoyannaya-ekspoziciya-ic-almetrika",
-        "event_img_url": "https://cdn.culture.ru/images/af0f9e7c-19b7-5370-82af-49378923fd22",
-        "event_price": 150,
-        "event_name": "Постоянная экспозиция ИЦ «Альметрика»",
-        "event_place": "АНО «Академия цифрового творчества»",
-        "event_address": "Академия цифрового творчества",
-        "event_date": "До 13 сентября 2022 и ещё 5 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/2221255/noch-svyatogo-valentina",
-        "event_img_url": "https://cdn.culture.ru/images/917f325b-63e4-5156-bc6e-8bcae1f877d4",
-        "event_price": 300,
-        "event_name": "«Ночь святого Валентина»",
-        "event_place": "Альметьевский татарский государственный драматический театр",
-        "event_address": "Альметьевский татарский государственный драматический театр",
-        "event_date": "8 сентября 2022 18:00"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/2221254/noch-svyatogo-valentina",
-        "event_img_url": "https://cdn.culture.ru/images/917f325b-63e4-5156-bc6e-8bcae1f877d4",
-        "event_price": 300,
-        "event_name": "«Ночь святого Валентина»",
-        "event_place": "Альметьевский татарский государственный драматический театр",
-        "event_address": "Альметьевский татарский государственный драматический театр",
-        "event_date": "8 сентября 2022 18:00"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/2221247/gitara-dlya-vsekh",
@@ -81,31 +45,40 @@
         "event_date": "10 сентября 2022 18:00"
     },
     {
+        "event_url": "https://www.culture.ru/events/1341184/postoyannaya-ekspoziciya-ic-almetrika",
+        "event_img_url": "https://cdn.culture.ru/images/af0f9e7c-19b7-5370-82af-49378923fd22",
+        "event_price": 150,
+        "event_name": "Постоянная экспозиция ИЦ «Альметрика»",
+        "event_place": "АНО «Академия цифрового творчества»",
+        "event_address": "Академия цифрового творчества",
+        "event_date": "До 13 сентября 2022"
+    },
+    {
         "event_url": "https://www.culture.ru/events/1795561/koncert-poslednii-tanec",
         "event_img_url": "https://cdn.culture.ru/images/9ed8c264-89c9-5a4b-bab2-19a42d9e0c56",
         "event_price": 500,
         "event_name": "Концерт «Последний танец»",
         "event_place": "",
-        "event_address": "Респ. Башкортостан, г. Октябрьский, ул. Геофизиков, д. 3еще 4 места",
+        "event_address": "Респ. Башкортостан, г. Октябрьский, ул. Геофизиков, д. 3",
         "event_date": "16 октября 2022 18:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2029522/geroi-sovetskogo-soyuza-legendarnyi-lyotchik-zhil-v-almetevske",
         "event_img_url": "https://cdn.culture.ru/images/83b79d58-f20b-56f5-a2d2-50150db26199",
         "event_price": 300,
-        "event_name": "«Герой Советского Союза, легендарный лётчик жил в Альметьевске!»",
+        "event_name": "«Герой Советского Союза, легендарный лётчик жил в Альметьевске!»",
         "event_place": "«Альметьевский политехнический техникум»",
         "event_address": "«Альметьевский политехнический техникум»",
-        "event_date": "До 30 сентября 2022 и ещё 5 показов"
+        "event_date": "До 30 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1370487/spektakl-begushii-za-vetrom",
         "event_img_url": "https://cdn.culture.ru/images/90f7e39d-42ad-5be7-b0d5-c73d40abd3db",
         "event_price": 280,
-        "event_name": "Спектакль «Бегущий за ветром»",
+        "event_name": "Спектакль «Бегущий за ветром»",
         "event_place": "Татарский государственный академический театр им. Галиаскара Камала",
-        "event_address": "Татарский государственный академический театр им. Галиаскара Камалаеще 1 место",
-        "event_date": "До 1 декабря 2022 и ещё 1 показ"
+        "event_address": "Татарский государственный академический театр им. Галиаскара Камала",
+        "event_date": "До 1 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1976382/rok-shou-rozhdenie-mira",
@@ -113,14 +86,14 @@
         "event_price": 500,
         "event_name": "Рок-шоу «Рождение мира»",
         "event_place": "Дворец культуры «Кинеф»",
-        "event_address": "Дворец культуры «Кинеф»еще 43 места",
+        "event_address": "Дворец культуры «Кинеф»",
         "event_date": "17 ноября 2022 19:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2244202/film-zhivy-li-vy",
         "event_img_url": "https://cdn.culture.ru/images/a3c2fa07-189f-5312-ae24-ff68450ddf93",
         "event_price": 300,
-        "event_name": "Фильм «Живы ли вы?»",
+        "event_name": "Фильм «Живы ли вы?»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "До 28 сентября 2022"
@@ -149,41 +122,32 @@
         "event_price": 800,
         "event_name": "Балет «Шедевры мирового балета»",
         "event_place": "Дворец культуры «Энергетик» г. Набережные Челны",
-        "event_address": "Дворец культуры «Энергетик» г. Набережные Челныеще 1 место",
+        "event_address": "Дворец культуры «Энергетик» г. Набережные Челны",
         "event_date": "9 октября 2022 19:00"
     },
     {
         "event_url": "https://www.culture.ru/events/1299075/spektakl-ty-umeesh-tak-lyubit",
         "event_img_url": "https://cdn.culture.ru/images/fb9dba03-8166-5c59-872b-e640083d532d",
         "event_price": 400,
-        "event_name": "Спектакль «Ты умеешь так любить…»",
+        "event_name": "Спектакль «Ты умеешь так любить…»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "8 октября 2022 18:00"
     },
     {
-        "event_url": "https://www.culture.ru/events/1300318/spektakl-mikulai",
-        "event_img_url": "https://cdn.culture.ru/images/022c3082-fd7b-53ab-b35b-d632d2c5d5c2",
-        "event_price": 400,
-        "event_name": "Спектакль «Микулай»",
-        "event_place": "Альметьевский татарский государственный драматический театр",
-        "event_address": "Альметьевский татарский государственный драматический театр",
-        "event_date": "13 октября 2022 18:00"
-    },
-    {
         "event_url": "https://www.culture.ru/events/1040646/spektakl-delo-bylo-v-pereulke",
         "event_img_url": "https://cdn.culture.ru/images/a93ae16d-b0d8-5a16-a5b1-25410d9395ba",
         "event_price": 400,
-        "event_name": "Спектакль «Дело было в переулке»",
+        "event_name": "Спектакль «Дело было в переулке»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
-        "event_date": "До 25 ноября 2022 и ещё 1 показ"
+        "event_date": "До 25 ноября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1054448/spektakl-ne-ta-vesna",
         "event_img_url": "https://cdn.culture.ru/images/c0745928-0e3c-5d1f-8d2c-bdd0a6407de2",
         "event_price": 400,
-        "event_name": "Спектакль «Не та весна»",
+        "event_name": "Спектакль «Не та весна»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "15 октября 2022 18:00"
@@ -228,16 +192,16 @@
         "event_url": "https://www.culture.ru/events/1769090/spektakl-pogovori-so-mnoyu-mama",
         "event_img_url": "https://cdn.culture.ru/images/24520106-80d3-51cb-ad71-e63ed982e4b3",
         "event_price": 500,
-        "event_name": "Спектакль «Поговори со мною, мама»",
+        "event_name": "Спектакль «Поговори со мною, мама»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
-        "event_date": "До 17 декабря 2022 и ещё 1 показ"
+        "event_date": "До 17 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1446871/spektakl-tam-za-gorizontom",
         "event_img_url": "https://cdn.culture.ru/images/c6476442-2f1e-50fc-841b-f07cf66a5ac1",
         "event_price": 500,
-        "event_name": "Спектакль «Там, за горизонтом»",
+        "event_name": "Спектакль «Там, за горизонтом»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "11 ноября 2022 18:00"
@@ -249,13 +213,13 @@
         "event_name": "Спектакль «Молодые сердца»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
-        "event_date": "До 15 декабря 2022 и ещё 1 показ"
+        "event_date": "До 15 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1688488/spektakl-ne-byl-zhenat",
         "event_img_url": "https://cdn.culture.ru/images/054a6801-dbef-583a-9e68-63c1cfd46bd8",
         "event_price": 500,
-        "event_name": "Спектакль «Не был женат»",
+        "event_name": "Спектакль «Не был женат»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "17 ноября 2022 18:00"
@@ -264,7 +228,7 @@
         "event_url": "https://www.culture.ru/events/1297040/spektakl-ta-kotoruyu-ne-zhdali",
         "event_img_url": "https://cdn.culture.ru/images/cd586364-c239-56a4-b57c-33b134589222",
         "event_price": 400,
-        "event_name": "Спектакль «Та, которую не ждали»",
+        "event_name": "Спектакль «Та, которую не ждали»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "18 ноября 2022 18:00"
@@ -291,7 +255,7 @@
         "event_url": "https://www.culture.ru/events/2222757/komediya-nu-i-dela",
         "event_img_url": "https://cdn.culture.ru/images/497ca109-35f0-5d22-894c-f407b5eba9ce",
         "event_price": 400,
-        "event_name": "Комедия «Ну и дела…»",
+        "event_name": "Комедия «Ну и дела…»",
         "event_place": "Альметьевский татарский государственный драматический театр",
         "event_address": "Альметьевский татарский государственный драматический театр",
         "event_date": "3 декабря 2022 18:00"
@@ -303,7 +267,7 @@
         "event_name": "Показ фильма «Каменный цветок»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
-        "event_date": "До 15 сентября 2022 и ещё 14 показов"
+        "event_date": "До 15 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/2233376/pokaz-filma-istoriya-grazhdanskoi-voiny",
@@ -312,7 +276,7 @@
         "event_name": "Показ фильма «История Гражданской войны»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
-        "event_date": "До 20 сентября 2022 и ещё 19 показов"
+        "event_date": "До 20 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/2224326/pokaz-filma-mechta",
@@ -321,7 +285,7 @@
         "event_name": "Показ фильма «Мечта»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
-        "event_date": "До 20 сентября 2022 и ещё 19 показов"
+        "event_date": "До 20 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1838941/vystavka-zhivaya-nit-tradicii",
@@ -330,16 +294,16 @@
         "event_name": "Выставка «Живая нить традиций»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 84 показа"
+        "event_date": "До 30 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1628615/ekskursiya-v-konyushnyu",
         "event_img_url": "https://cdn.culture.ru/images/1cea6c52-1e00-5086-9200-65d653940b78",
         "event_price": 100,
-        "event_name": "Экскурсия в конюшню",
+        "event_name": "Экскурсия в конюшню",
         "event_place": "",
         "event_address": "Респ. Татарстан, г. Альметьевск, Альметьевский р-н.,  территория иподрома",
-        "event_date": "До 29 декабря 2022 и ещё 85 показов"
+        "event_date": "До 29 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1313902/vystavka-poklonimsya-velikim-tem-godam",
@@ -348,16 +312,16 @@
         "event_name": "Выставка «Поклонимся великим тем годам»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 86 показов"
+        "event_date": "До 30 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1312659/vystavka-almetevskii-raion-ot-proshlogo-k-budushemu",
         "event_img_url": "https://cdn.culture.ru/images/1518ab98-b53e-55fb-8a54-6c844ddfb1ce",
         "event_price": 50,
-        "event_name": "Выставка «Альметьевский район: от прошлого — к будущему»",
+        "event_name": "Выставка «Альметьевский район: от прошлого — к будущему»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 86 показов"
+        "event_date": "До 30 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1673510/ekspozicii-almetevskoi-kartinnoi-galerei",
@@ -366,7 +330,7 @@
         "event_name": "Экспозиции Альметьевской картинной галереи",
         "event_place": "Альметьевская картинная галерея",
         "event_address": "Альметьевская картинная галерея",
-        "event_date": "До 31 декабря 2022 и ещё 87 показов"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1624851/master-klass-shokoboks",
@@ -375,7 +339,7 @@
         "event_name": "Мастер-класс «Шокобокс»",
         "event_place": "Молодежный подростковый клуб «Заря»",
         "event_address": "Молодежный подростковый клуб «Заря»",
-        "event_date": "До 31 декабря 2022 и ещё 104 показа"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1623511/master-klass-valentinka",
@@ -384,7 +348,7 @@
         "event_name": "Мастер-класс «Валентинка»",
         "event_place": "Молодежный подростковый клуб «Ракета»",
         "event_address": "Молодежный подростковый клуб «Ракета»",
-        "event_date": "До 31 декабря 2022 и ещё 104 показа"
+        "event_date": "До 31 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1365415/vystavka-ekho-voiny",
@@ -393,7 +357,7 @@
         "event_name": "Выставка «Эхо войны»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 26 декабря 2025 и ещё 866 показов"
+        "event_date": "До 26 декабря 2025"
     },
     {
         "event_url": "https://www.culture.ru/events/1313360/vystavka-modnoe-deja-vu",
@@ -402,358 +366,7 @@
         "event_name": "Выставка «Модное deja vu»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 85 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/2249052/leto-skromnogo-romantika",
-        "event_img_url": "https://cdn.culture.ru/images/d48834ca-3dce-575f-bde4-f4528f7398e7",
-        "event_price": 0,
-        "event_name": "Лето скромного романтика",
-        "event_place": "Детская школа искусств № 1 г. Альметьевска",
-        "event_address": "Детская школа искусств № 1 г. Альметьевска",
-        "event_date": "7 сентября 2022 17:00"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1629003/master-klass-rospis-futbolok",
-        "event_img_url": "https://cdn.culture.ru/images/33c8d722-2510-576f-84c0-78ba27a4e325",
-        "event_price": 700,
-        "event_name": "Мастер-класс «Роспись футболок»",
-        "event_place": "Планетарий «Сфера»",
-        "event_address": "Планетарий «Сфера»",
-        "event_date": "До 30 сентября 2022 и ещё 10 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1539771/vechera-nastolnykh-igr",
-        "event_img_url": "https://cdn.culture.ru/images/4e9e42de-96ed-5a34-bc68-227869e543c0",
-        "event_price": 400,
-        "event_name": "Вечера настольных игр",
-        "event_place": "Планетарий «Сфера»",
-        "event_address": "Планетарий «Сфера»",
-        "event_date": "До 30 сентября 2022 и ещё 10 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1533491/master-klass-dekorirovanie-steklyannoi-posudy",
-        "event_img_url": "https://cdn.culture.ru/images/b07a5de2-5cd8-5b32-803e-bd5121ef373e",
-        "event_price": 400,
-        "event_name": "Мастер-класс «Декорирование стеклянной посуды»",
-        "event_place": "Планетарий «Сфера»",
-        "event_address": "Планетарий «Сфера»",
-        "event_date": "До 30 сентября 2022 и ещё 20 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1531365/programma-vnezemnye-miry",
-        "event_img_url": "https://cdn.culture.ru/images/a161794a-6c74-5edc-bd8d-4b62ff7c22ad",
-        "event_price": 150,
-        "event_name": "Программа «Внеземные миры»",
-        "event_place": "Планетарий «Сфера»",
-        "event_address": "Планетарий «Сфера»",
-        "event_date": "До 30 сентября 2022 и ещё 20 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1495159/master-klass-medovye-svechi",
-        "event_img_url": "https://cdn.culture.ru/images/1ea01083-6884-5088-b0b5-1510221dcef8",
-        "event_price": 600,
-        "event_name": "Мастер-класс «Медовые свечи»",
-        "event_place": "Планетарий «Сфера»",
-        "event_address": "Планетарий «Сфера»",
-        "event_date": "До 30 сентября 2022 и ещё 20 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1378161/programma-solnce-zvezda-nashei-zhizni",
-        "event_img_url": "https://cdn.culture.ru/images/b9f23533-9536-5cb1-bbfc-fde938e3d94d",
-        "event_price": 150,
-        "event_name": "Программа «Солнце. Звезда нашей жизни»",
-        "event_place": "Планетарий «Сфера»",
-        "event_address": "Планетарий «Сфера»",
-        "event_date": "До 30 сентября 2022 и ещё 20 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1321755/intellektualnaya-viktorina-ya-zdes-zhivu-i-krai-mne-etot-dorog",
-        "event_img_url": "https://cdn.culture.ru/images/7edd728a-2153-5a62-99aa-eb39caefc735",
-        "event_price": 50,
-        "event_name": "Интеллектуальная викторина «Я здесь живу, и край мне этот дорог»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 61 показ"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1311989/tematicheskaya-ekskursiya-istoriya-neftegrada",
-        "event_img_url": "https://cdn.culture.ru/images/57bddeda-1cb6-5863-907b-794bc70d525a",
-        "event_price": 50,
-        "event_name": "Тематическая экскурсия «История нефтеграда»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 80 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1736223/kvest-muzeinye-sokrovisha",
-        "event_img_url": "https://cdn.culture.ru/images/44b5e47c-4c25-5de7-a6cc-351f93342cb4",
-        "event_price": 200,
-        "event_name": "Квест «Музейные сокровища»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 29 декабря 2022 и ещё 81 показ"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1690791/ekskursiya-nikto-ne-zabyt-nichto-ne-zybyto",
-        "event_img_url": "https://cdn.culture.ru/images/cd01f3c0-0e63-5a2a-a130-4b7c5eec4552",
-        "event_price": 250,
-        "event_name": "Экскурсия «Никто не забыт, ничто не зыбыто!»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 81 показ"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1607835/vystavka-istoriya-s-drevneishikh-vremen-do-nashikh-dnei",
-        "event_img_url": "https://cdn.culture.ru/images/4a235d76-205a-541a-843d-656a66b8a8e7",
-        "event_price": 50,
-        "event_name": "Выставка «История с древнейших времен до наших дней»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 81 показ"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1607875/kvest-tainy-predmetov",
-        "event_img_url": "https://cdn.culture.ru/images/9704d1ff-74e9-5e15-a545-122edd249516",
-        "event_price": 50,
-        "event_name": "Квест «Тайны предметов»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 82 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1482791/master-klass-elochnaya-igrushka-iz-foamirana",
-        "event_img_url": "https://cdn.culture.ru/images/41b7da71-d4ca-5be5-bbb5-6eb1d2473692",
-        "event_price": 350,
-        "event_name": "Мастер-класс «Елочная игрушка из фоамирана»",
-        "event_place": "Молодежный подростковый клуб «Ракета»",
-        "event_address": "Молодежный подростковый клуб «Ракета»",
-        "event_date": "До 30 декабря 2022 и ещё 82 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1458365/master-klass-mandala",
-        "event_img_url": "https://cdn.culture.ru/images/75a9d197-5842-571e-b678-dea55c9c75dd",
-        "event_price": 300,
-        "event_name": "Мастер-класс «Мандала»",
-        "event_place": "Молодежный подростковый клуб «Олимп»",
-        "event_address": "Молодежный подростковый клуб «Олимп»",
-        "event_date": "До 30 декабря 2022 и ещё 82 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1451799/master-klass-po-mylovareniyu",
-        "event_img_url": "https://cdn.culture.ru/images/4370f540-6c15-5b29-be35-5aacbf9b066b",
-        "event_price": 500,
-        "event_name": "Мастер-класс по мыловарению",
-        "event_place": "Молодежный подростковый клуб «Луч»",
-        "event_address": "Молодежный подростковый клуб «Луч»",
-        "event_date": "До 30 декабря 2022 и ещё 82 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1378291/programma-muzeinyi-perekrestok",
-        "event_img_url": "https://cdn.culture.ru/images/f4b6f37e-ec7e-5f69-b640-22729616e40c",
-        "event_price": 200,
-        "event_name": "Программа «Музейный перекресток»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 31 декабря 2022 и ещё 83 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1214589/vystavka-obo-vsem-odezhda-govorila",
-        "event_img_url": "https://cdn.culture.ru/images/88ffe8b6-8f33-58e9-8d90-10a03bae1d77",
-        "event_price": 50,
-        "event_name": "Выставка «Обо всем одежда говорила…»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 24 декабря 2022 и ещё 93 показа"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1416517/ekskursiya-znat-istoriyu-dorozhit-proshlym",
-        "event_img_url": "https://cdn.culture.ru/images/05139b7d-25b6-5cdd-a6cb-438ba92387f3",
-        "event_price": 50,
-        "event_name": "Экскурсия «Знать историю, дорожить прошлым!»",
-        "event_place": "Альметьевский краеведческий музей",
-        "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 98 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1623509/master-klass-rospis-imbirnykh-pryanikov",
-        "event_img_url": "https://cdn.culture.ru/images/af981a13-70f1-5be6-bd6c-6bbbc34c74a5",
-        "event_price": 500,
-        "event_name": "Мастер-класс «Роспись имбирных пряников»",
-        "event_place": "Молодежный подростковый клуб «Импульс»",
-        "event_address": "Молодежный подростковый клуб «Импульс»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1607555/master-klass-khudozhestvennaya-rospis-po-tkani",
-        "event_img_url": "https://cdn.culture.ru/images/21c6a1d0-1d65-5ef2-8539-0c2ae31a3ee5",
-        "event_price": 900,
-        "event_name": "Мастер-класс «Художественная роспись по ткани»",
-        "event_place": "Молодежный подростковый клуб «Импульс»",
-        "event_address": "Молодежный подростковый клуб «Импульс»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1507149/ekskursiya-istorii-velikoi-otechestvennoi-voiny-1941-1945-godov",
-        "event_img_url": "https://cdn.culture.ru/images/c65b5fe0-e0d4-51d1-90b7-a451f43517d8",
-        "event_price": 350,
-        "event_name": "Экскурсия «Истории Великой Отечественной войны 1941–1945 годов»",
-        "event_place": "Молодежный (подростковый) клуб «Ровесник»",
-        "event_address": "Молодежный (подростковый) клуб «Ровесник»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1482014/master-klass-novogodnyaya-igrushka-iz-foamirana",
-        "event_img_url": "https://cdn.culture.ru/images/1116de5c-11da-5060-87e6-1052eabfaf5a",
-        "event_price": 350,
-        "event_name": "Мастер-класс «Новогодняя игрушка из фоамирана»",
-        "event_place": "Молодежный подростковый клуб «Олимп»",
-        "event_address": "Молодежный подростковый клуб «Олимп»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1451817/master-klass-po-string-artu",
-        "event_img_url": "https://cdn.culture.ru/images/38353af1-936a-5097-b1d9-926c05af2157",
-        "event_price": 800,
-        "event_name": "Мастер-класс по стринг-арту",
-        "event_place": "Молодежный (подростковый) клуб «У Тукая»",
-        "event_address": "Молодежный (подростковый) клуб «У Тукая»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1451802/master-klass-brelok-iz-fetra",
-        "event_img_url": "https://cdn.culture.ru/images/71d8823f-4b64-5551-8e0d-68dcb2b67ed3",
-        "event_price": 300,
-        "event_name": "Мастер-класс «Брелок из фетра»",
-        "event_place": "Молодежный подростковый клуб «Заря»",
-        "event_address": "Молодежный подростковый клуб «Заря»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1446869/master-klass-po-zhivopisi",
-        "event_img_url": "https://cdn.culture.ru/images/ba473f4c-e761-57ce-b5b8-d02daa4351ea",
-        "event_price": 700,
-        "event_name": "Мастер-класс по живописи",
-        "event_place": "Молодежный подростковый клуб «Графит»",
-        "event_address": "Молодежный подростковый клуб «Графит»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1446867/master-klass-dekorirovanie-kruzhki-akrilom",
-        "event_img_url": "https://cdn.culture.ru/images/0091f6fe-32a8-56fe-ad92-35d219aca277",
-        "event_price": 400,
-        "event_name": "Мастер-класс «Декорирование кружки акрилом»",
-        "event_place": "Молодежный подростковый клуб «Луч»",
-        "event_address": "Молодежный подростковый клуб «Луч»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1446866/master-klass-mekhendi-i-akvagrim",
-        "event_img_url": "https://cdn.culture.ru/images/fd3d8041-24e9-5613-90be-f2e30fba6f5a",
-        "event_price": 500,
-        "event_name": "Мастер-класс «Мехенди и Аквагрим»",
-        "event_place": "Молодежный подростковый клуб «Спартак»",
-        "event_address": "Молодежный подростковый клуб «Спартак»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1446865/master-klass-po-biseropleteniyu",
-        "event_img_url": "https://cdn.culture.ru/images/eac05db1-8787-5d05-93b9-b064c36907ec",
-        "event_price": 400,
-        "event_name": "Мастер-класс по бисероплетению",
-        "event_place": "Молодежный подростковый клуб «Воздух»",
-        "event_address": "Молодежный подростковый клуб «Воздух»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1444640/master-klass-svechi-iz-naturalnoi-voshiny",
-        "event_img_url": "https://cdn.culture.ru/images/21cac00f-98ac-5031-8961-985de51c1beb",
-        "event_price": 600,
-        "event_name": "Мастер-класс «Свечи из натуральной вощины»",
-        "event_place": "Молодежный подростковый клуб «Олимп»",
-        "event_address": "Молодежный подростковый клуб «Олимп»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1440069/master-klass-rospis-gipsovykh-figurok",
-        "event_img_url": "https://cdn.culture.ru/images/f7a85050-2502-554f-a350-64715bf5465e",
-        "event_price": 300,
-        "event_name": "Мастер-класс «Роспись гипсовых фигурок»",
-        "event_place": "Молодежный подростковый клуб «ВМоменте»",
-        "event_address": "Молодежный подростковый клуб «ВМоменте»",
-        "event_date": "До 31 декабря 2022 и ещё 99 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1723770/master-klass-avokado",
-        "event_img_url": "https://cdn.culture.ru/images/784e0e40-00b4-5b41-b105-bd807bcab8ad",
-        "event_price": 800,
-        "event_name": "Мастер-класс «Авокадо»",
-        "event_place": "Арт-студия EASY",
-        "event_address": "Арт-студия EASY",
-        "event_date": "До 29 декабря 2022 и ещё 113 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1675575/master-klass-lavanda",
-        "event_img_url": "https://cdn.culture.ru/images/fe17fb3d-b607-5a60-898d-9ecce4cc71ed",
-        "event_price": 600,
-        "event_name": "Мастер-класс «Лаванда»",
-        "event_place": "Арт-студия EASY",
-        "event_address": "Арт-студия EASY",
-        "event_date": "До 29 декабря 2022 и ещё 113 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1658213/master-klass-gorod-akrilom",
-        "event_img_url": "https://cdn.culture.ru/images/3a8b8d83-b306-5b13-84cc-980d4bbbf784",
-        "event_price": 600,
-        "event_name": "Мастер-класс «Город акрилом»",
-        "event_place": "Арт-студия EASY",
-        "event_address": "Арт-студия EASY",
-        "event_date": "До 29 декабря 2022 и ещё 113 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1627156/master-klass-abstrakciya",
-        "event_img_url": "https://cdn.culture.ru/images/8f169cb6-b008-5384-b86f-6eb4d17d4621",
-        "event_price": 350,
-        "event_name": "Мастер-класс «Абстракция»",
-        "event_place": "Арт-студия EASY",
-        "event_address": "Арт-студия EASY",
-        "event_date": "До 29 декабря 2022 и ещё 113 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/1499876/master-klass-cvetochnoe-ukrashenie-iz-foamirana",
-        "event_img_url": "https://cdn.culture.ru/images/d84d11fe-fe2a-5eaf-a9ae-f7458cbbb4bd",
-        "event_price": 400,
-        "event_name": "Мастер-класс «Цветочное украшение из фоамирана»",
-        "event_place": "Молодежный (подростковый) клуб «Аэронавт»",
-        "event_address": "Молодежный (подростковый) клуб «Аэронавт»еще 2 места",
-        "event_date": "До 31 декабря 2022 и ещё 199 показов"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/2249549/uvlechennost-ne-znala-granic",
-        "event_img_url": "https://cdn.culture.ru/images/f9481d2f-7d53-5f1c-9b87-d3c8272adb5f",
-        "event_price": 0,
-        "event_name": "«Увлеченность не знала границ»",
-        "event_place": "Урсалинская городская библиотека – филиал № 52",
-        "event_address": "Урсалинская городская библиотека – филиал № 52",
-        "event_date": "8 сентября 2022 12:45"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/2137255/stand-up-yuliya-akhmedova",
-        "event_img_url": "https://cdn.culture.ru/images/b4b83366-8612-506e-a986-35715d2c7005",
-        "event_price": 1200,
-        "event_name": "Stand Up: Юлия Ахмедова",
-        "event_place": "Дворец культуры «Нефтьче»",
-        "event_address": "Дворец культуры «Нефтьче»",
-        "event_date": "8 сентября 2022 19:00"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/934531/spektakl-noch-svyatogo-valentina",
-        "event_img_url": "https://cdn.culture.ru/images/67761956-0785-544b-a624-a733db99ac80",
-        "event_price": 250,
-        "event_name": "Спектакль «Ночь святого Валентина»",
-        "event_place": "Альметьевский татарский государственный драматический театр",
-        "event_address": "Альметьевский татарский государственный драматический театреще 1 место",
-        "event_date": "8 сентября 2022 19:00"
+        "event_date": "До 30 декабря 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1611216/master-klass-rospis-kepok",
@@ -762,7 +375,7 @@
         "event_name": "Мастер-класс «Роспись кепок»",
         "event_place": "Планетарий «Сфера»",
         "event_address": "Планетарий «Сфера»",
-        "event_date": "До 29 сентября 2022 и ещё 9 показов"
+        "event_date": "До 29 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1499703/master-klass-magnit-kosmos",
@@ -771,61 +384,295 @@
         "event_name": "Мастер-класс «Магнит «Космос»",
         "event_place": "Планетарий «Сфера»",
         "event_address": "Планетарий «Сфера»",
-        "event_date": "До 29 сентября 2022 и ещё 9 показов"
+        "event_date": "До 29 сентября 2022"
     },
     {
-        "event_url": "https://www.culture.ru/events/2249439/pisatel-vlyublennyi-v-zhivotnykh",
-        "event_img_url": "https://cdn.culture.ru/images/2531f3bc-27ba-59f3-9f7d-1e74ed08e811",
-        "event_price": 0,
-        "event_name": "«Писатель, влюбленный в животных»",
-        "event_place": "Библиотека-филиал № 12 г. Альметьевск",
-        "event_address": "Библиотека-филиал № 12 г. Альметьевск",
-        "event_date": "9 сентября 2022 13:00"
+        "event_url": "https://www.culture.ru/events/1533491/master-klass-dekorirovanie-steklyannoi-posudy",
+        "event_img_url": "https://cdn.culture.ru/images/b07a5de2-5cd8-5b32-803e-bd5121ef373e",
+        "event_price": 400,
+        "event_name": "Мастер-класс «Декорирование стеклянной посуды»",
+        "event_place": "Планетарий «Сфера»",
+        "event_address": "Планетарий «Сфера»",
+        "event_date": "До 30 сентября 2022"
     },
     {
-        "event_url": "https://www.culture.ru/events/1707999/igra-chto-gde-kogda-i-pochemu",
-        "event_img_url": "https://cdn.culture.ru/images/f00d635c-7093-5352-b5f0-9dbacf1d4b35",
+        "event_url": "https://www.culture.ru/events/1531365/programma-vnezemnye-miry",
+        "event_img_url": "https://cdn.culture.ru/images/a161794a-6c74-5edc-bd8d-4b62ff7c22ad",
         "event_price": 150,
-        "event_name": "Игра «Что? Где? Когда? И почему?»",
-        "event_place": "Клементейкинская сельская библиотека – филиал № 35",
-        "event_address": "Клементейкинская сельская библиотека – филиал № 35еще 14 мест",
-        "event_date": "23 сентября 2022 14:00"
+        "event_name": "Программа «Внеземные миры»",
+        "event_place": "Планетарий «Сфера»",
+        "event_address": "Планетарий «Сфера»",
+        "event_date": "До 30 сентября 2022"
     },
     {
-        "event_url": "https://www.culture.ru/events/1262994/interaktivnoe-meropriyatie-v-gostyakh-u-fei-vremeni",
-        "event_img_url": "https://cdn.culture.ru/images/122c7588-82a7-5733-b10a-e6d8e1962d93",
+        "event_url": "https://www.culture.ru/events/1495159/master-klass-medovye-svechi",
+        "event_img_url": "https://cdn.culture.ru/images/1ea01083-6884-5088-b0b5-1510221dcef8",
+        "event_price": 600,
+        "event_name": "Мастер-класс «Медовые свечи»",
+        "event_place": "Планетарий «Сфера»",
+        "event_address": "Планетарий «Сфера»",
+        "event_date": "До 30 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1378161/programma-solnce-zvezda-nashei-zhizni",
+        "event_img_url": "https://cdn.culture.ru/images/b9f23533-9536-5cb1-bbfc-fde938e3d94d",
+        "event_price": 150,
+        "event_name": "Программа «Солнце. Звезда нашей жизни»",
+        "event_place": "Планетарий «Сфера»",
+        "event_address": "Планетарий «Сфера»",
+        "event_date": "До 30 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1321755/intellektualnaya-viktorina-ya-zdes-zhivu-i-krai-mne-etot-dorog",
+        "event_img_url": "https://cdn.culture.ru/images/7edd728a-2153-5a62-99aa-eb39caefc735",
         "event_price": 50,
-        "event_name": "Интерактивное мероприятие «В гостях у Феи Времени»",
+        "event_name": "Интеллектуальная викторина «Я здесь живу, и край мне этот дорог»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 23 декабря 2022 и ещё 15 показов"
+        "event_date": "До 30 декабря 2022"
     },
     {
-        "event_url": "https://www.culture.ru/events/1717715/ekskursiya-u-voiny-ne-zhenskoe-lico",
-        "event_img_url": "https://cdn.culture.ru/images/ee107197-930d-5e53-88c3-241ccd99fe58",
-        "event_price": 100,
-        "event_name": "Экскурсия «У войны не женское лицо»",
+        "event_url": "https://www.culture.ru/events/1311989/tematicheskaya-ekskursiya-istoriya-neftegrada",
+        "event_img_url": "https://cdn.culture.ru/images/57bddeda-1cb6-5863-907b-794bc70d525a",
+        "event_price": 50,
+        "event_name": "Тематическая экскурсия «История нефтеграда»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 16 показов"
+        "event_date": "До 30 декабря 2022"
     },
     {
-        "event_url": "https://www.culture.ru/events/1340661/programma-tainy-predmetov",
-        "event_img_url": "https://cdn.culture.ru/images/60b71cf8-6ea6-5be1-9703-bf8d6edc805d",
-        "event_price": 100,
-        "event_name": "Программа «Тайны предметов»",
+        "event_url": "https://www.culture.ru/events/1736223/kvest-muzeinye-sokrovisha",
+        "event_img_url": "https://cdn.culture.ru/images/44b5e47c-4c25-5de7-a6cc-351f93342cb4",
+        "event_price": 200,
+        "event_name": "Квест «Музейные сокровища»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
-        "event_date": "До 30 декабря 2022 и ещё 16 показов"
+        "event_date": "До 29 декабря 2022"
     },
     {
-        "event_url": "https://www.culture.ru/events/2254670/bratya-nashi-menshie-ikh-prava-i-nasha-zashita",
-        "event_img_url": "https://cdn.culture.ru/images/11172b7e-567b-5749-a3b3-0d6723d10cfe",
-        "event_price": 0,
-        "event_name": "«Братья наши меньшие: их права и наша защита».",
-        "event_place": "Альметьевская городская библиотека – филиал № 4",
-        "event_address": "Альметьевская городская библиотека – филиал № 4",
-        "event_date": "10 сентября 2022 14:00"
+        "event_url": "https://www.culture.ru/events/1690791/ekskursiya-nikto-ne-zabyt-nichto-ne-zybyto",
+        "event_img_url": "https://cdn.culture.ru/images/cd01f3c0-0e63-5a2a-a130-4b7c5eec4552",
+        "event_price": 250,
+        "event_name": "Экскурсия «Никто не забыт, ничто не зыбыто!»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1607835/vystavka-istoriya-s-drevneishikh-vremen-do-nashikh-dnei",
+        "event_img_url": "https://cdn.culture.ru/images/4a235d76-205a-541a-843d-656a66b8a8e7",
+        "event_price": 50,
+        "event_name": "Выставка «История с древнейших времен до наших дней»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1607875/kvest-tainy-predmetov",
+        "event_img_url": "https://cdn.culture.ru/images/9704d1ff-74e9-5e15-a545-122edd249516",
+        "event_price": 50,
+        "event_name": "Квест «Тайны предметов»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1378291/programma-muzeinyi-perekrestok",
+        "event_img_url": "https://cdn.culture.ru/images/f4b6f37e-ec7e-5f69-b640-22729616e40c",
+        "event_price": 200,
+        "event_name": "Программа «Музейный перекресток»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1214589/vystavka-obo-vsem-odezhda-govorila",
+        "event_img_url": "https://cdn.culture.ru/images/88ffe8b6-8f33-58e9-8d90-10a03bae1d77",
+        "event_price": 50,
+        "event_name": "Выставка «Обо всем одежда говорила…»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 24 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1416517/ekskursiya-znat-istoriyu-dorozhit-proshlym",
+        "event_img_url": "https://cdn.culture.ru/images/05139b7d-25b6-5cdd-a6cb-438ba92387f3",
+        "event_price": 50,
+        "event_name": "Экскурсия «Знать историю, дорожить прошлым!»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1623509/master-klass-rospis-imbirnykh-pryanikov",
+        "event_img_url": "https://cdn.culture.ru/images/af981a13-70f1-5be6-bd6c-6bbbc34c74a5",
+        "event_price": 500,
+        "event_name": "Мастер-класс «Роспись имбирных пряников»",
+        "event_place": "Молодежный подростковый клуб «Импульс»",
+        "event_address": "Молодежный подростковый клуб «Импульс»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1607555/master-klass-khudozhestvennaya-rospis-po-tkani",
+        "event_img_url": "https://cdn.culture.ru/images/21c6a1d0-1d65-5ef2-8539-0c2ae31a3ee5",
+        "event_price": 900,
+        "event_name": "Мастер-класс «Художественная роспись по ткани»",
+        "event_place": "Молодежный подростковый клуб «Импульс»",
+        "event_address": "Молодежный подростковый клуб «Импульс»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1507149/ekskursiya-istorii-velikoi-otechestvennoi-voiny-1941-1945-godov",
+        "event_img_url": "https://cdn.culture.ru/images/c65b5fe0-e0d4-51d1-90b7-a451f43517d8",
+        "event_price": 350,
+        "event_name": "Экскурсия «Истории Великой Отечественной войны 1941–1945 годов»",
+        "event_place": "Молодежный (подростковый) клуб «Ровесник»",
+        "event_address": "Молодежный (подростковый) клуб «Ровесник»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1482014/master-klass-novogodnyaya-igrushka-iz-foamirana",
+        "event_img_url": "https://cdn.culture.ru/images/1116de5c-11da-5060-87e6-1052eabfaf5a",
+        "event_price": 350,
+        "event_name": "Мастер-класс «Новогодняя игрушка из фоамирана»",
+        "event_place": "Молодежный подростковый клуб «Олимп»",
+        "event_address": "Молодежный подростковый клуб «Олимп»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1451817/master-klass-po-string-artu",
+        "event_img_url": "https://cdn.culture.ru/images/38353af1-936a-5097-b1d9-926c05af2157",
+        "event_price": 800,
+        "event_name": "Мастер-класс по стринг-арту",
+        "event_place": "Молодежный (подростковый) клуб «У Тукая»",
+        "event_address": "Молодежный (подростковый) клуб «У Тукая»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1451802/master-klass-brelok-iz-fetra",
+        "event_img_url": "https://cdn.culture.ru/images/71d8823f-4b64-5551-8e0d-68dcb2b67ed3",
+        "event_price": 300,
+        "event_name": "Мастер-класс «Брелок из фетра»",
+        "event_place": "Молодежный подростковый клуб «Заря»",
+        "event_address": "Молодежный подростковый клуб «Заря»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1446869/master-klass-po-zhivopisi",
+        "event_img_url": "https://cdn.culture.ru/images/ba473f4c-e761-57ce-b5b8-d02daa4351ea",
+        "event_price": 700,
+        "event_name": "Мастер-класс по живописи",
+        "event_place": "Молодежный подростковый клуб «Графит»",
+        "event_address": "Молодежный подростковый клуб «Графит»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1446867/master-klass-dekorirovanie-kruzhki-akrilom",
+        "event_img_url": "https://cdn.culture.ru/images/0091f6fe-32a8-56fe-ad92-35d219aca277",
+        "event_price": 400,
+        "event_name": "Мастер-класс «Декорирование кружки акрилом»",
+        "event_place": "Молодежный подростковый клуб «Луч»",
+        "event_address": "Молодежный подростковый клуб «Луч»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1446866/master-klass-mekhendi-i-akvagrim",
+        "event_img_url": "https://cdn.culture.ru/images/fd3d8041-24e9-5613-90be-f2e30fba6f5a",
+        "event_price": 500,
+        "event_name": "Мастер-класс «Мехенди и Аквагрим»",
+        "event_place": "Молодежный подростковый клуб «Спартак»",
+        "event_address": "Молодежный подростковый клуб «Спартак»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1446865/master-klass-po-biseropleteniyu",
+        "event_img_url": "https://cdn.culture.ru/images/eac05db1-8787-5d05-93b9-b064c36907ec",
+        "event_price": 400,
+        "event_name": "Мастер-класс по бисероплетению",
+        "event_place": "Молодежный подростковый клуб «Воздух»",
+        "event_address": "Молодежный подростковый клуб «Воздух»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1444640/master-klass-svechi-iz-naturalnoi-voshiny",
+        "event_img_url": "https://cdn.culture.ru/images/21cac00f-98ac-5031-8961-985de51c1beb",
+        "event_price": 600,
+        "event_name": "Мастер-класс «Свечи из натуральной вощины»",
+        "event_place": "Молодежный подростковый клуб «Олимп»",
+        "event_address": "Молодежный подростковый клуб «Олимп»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1440069/master-klass-rospis-gipsovykh-figurok",
+        "event_img_url": "https://cdn.culture.ru/images/f7a85050-2502-554f-a350-64715bf5465e",
+        "event_price": 300,
+        "event_name": "Мастер-класс «Роспись гипсовых фигурок»",
+        "event_place": "Молодежный подростковый клуб «ВМоменте»",
+        "event_address": "Молодежный подростковый клуб «ВМоменте»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1723770/master-klass-avokado",
+        "event_img_url": "https://cdn.culture.ru/images/784e0e40-00b4-5b41-b105-bd807bcab8ad",
+        "event_price": 800,
+        "event_name": "Мастер-класс «Авокадо»",
+        "event_place": "Арт-студия EASY",
+        "event_address": "Арт-студия EASY",
+        "event_date": "До 29 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1675575/master-klass-lavanda",
+        "event_img_url": "https://cdn.culture.ru/images/fe17fb3d-b607-5a60-898d-9ecce4cc71ed",
+        "event_price": 600,
+        "event_name": "Мастер-класс «Лаванда»",
+        "event_place": "Арт-студия EASY",
+        "event_address": "Арт-студия EASY",
+        "event_date": "До 29 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1658213/master-klass-gorod-akrilom",
+        "event_img_url": "https://cdn.culture.ru/images/3a8b8d83-b306-5b13-84cc-980d4bbbf784",
+        "event_price": 600,
+        "event_name": "Мастер-класс «Город акрилом»",
+        "event_place": "Арт-студия EASY",
+        "event_address": "Арт-студия EASY",
+        "event_date": "До 29 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1627156/master-klass-abstrakciya",
+        "event_img_url": "https://cdn.culture.ru/images/8f169cb6-b008-5384-b86f-6eb4d17d4621",
+        "event_price": 350,
+        "event_name": "Мастер-класс «Абстракция»",
+        "event_place": "Арт-студия EASY",
+        "event_address": "Арт-студия EASY",
+        "event_date": "До 29 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1499876/master-klass-cvetochnoe-ukrashenie-iz-foamirana",
+        "event_img_url": "https://cdn.culture.ru/images/d84d11fe-fe2a-5eaf-a9ae-f7458cbbb4bd",
+        "event_price": 400,
+        "event_name": "Мастер-класс «Цветочное украшение из фоамирана»",
+        "event_place": "Молодежный (подростковый) клуб «Аэронавт»",
+        "event_address": "Молодежный (подростковый) клуб «Аэронавт»",
+        "event_date": "До 31 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1629003/master-klass-rospis-futbolok",
+        "event_img_url": "https://cdn.culture.ru/images/33c8d722-2510-576f-84c0-78ba27a4e325",
+        "event_price": 700,
+        "event_name": "Мастер-класс «Роспись футболок»",
+        "event_place": "Планетарий «Сфера»",
+        "event_address": "Планетарий «Сфера»",
+        "event_date": "До 30 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1539771/vechera-nastolnykh-igr",
+        "event_img_url": "https://cdn.culture.ru/images/4e9e42de-96ed-5a34-bc68-227869e543c0",
+        "event_price": 400,
+        "event_name": "Вечера настольных игр",
+        "event_place": "Планетарий «Сфера»",
+        "event_address": "Планетарий «Сфера»",
+        "event_date": "До 30 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/2259526/intellektualnaya-igra",
@@ -834,16 +681,88 @@
         "event_name": "Интеллектуальная игра",
         "event_place": "Планетарий «Сфера»",
         "event_address": "Планетарий «Сфера»",
-        "event_date": "С 11 сентября 2022 и ещё 16 показов"
+        "event_date": "С 11 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1482791/master-klass-elochnaya-igrushka-iz-foamirana",
+        "event_img_url": "https://cdn.culture.ru/images/41b7da71-d4ca-5be5-bbb5-6eb1d2473692",
+        "event_price": 350,
+        "event_name": "Мастер-класс «Елочная игрушка из фоамирана»",
+        "event_place": "Молодежный подростковый клуб «Ракета»",
+        "event_address": "Молодежный подростковый клуб «Ракета»",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1458365/master-klass-mandala",
+        "event_img_url": "https://cdn.culture.ru/images/75a9d197-5842-571e-b678-dea55c9c75dd",
+        "event_price": 300,
+        "event_name": "Мастер-класс «Мандала»",
+        "event_place": "Молодежный подростковый клуб «Олимп»",
+        "event_address": "Молодежный подростковый клуб «Олимп»",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1451799/master-klass-po-mylovareniyu",
+        "event_img_url": "https://cdn.culture.ru/images/4370f540-6c15-5b29-be35-5aacbf9b066b",
+        "event_price": 500,
+        "event_name": "Мастер-класс по мыловарению",
+        "event_place": "Молодежный подростковый клуб «Луч»",
+        "event_address": "Молодежный подростковый клуб «Луч»",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2262116/master-klass-zhar-ptica",
+        "event_img_url": "https://cdn.culture.ru/images/4f994865-a656-5124-bd97-34ddaa03d13a",
+        "event_price": 300,
+        "event_name": "Мастер-класс «Жар-птица»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "13 сентября 2022 15:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2261830/master-klass-taumatrop-vrashayusheesya-chudo",
+        "event_img_url": "https://cdn.culture.ru/images/251c51ed-793f-5313-878d-ad36b7e92905",
+        "event_price": 300,
+        "event_name": "Мастер-класс «Тауматроп — вращающееся чудо»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "13 сентября 2022 10:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1592821/master-klass-taumatrop",
+        "event_img_url": "https://cdn.culture.ru/images/3f9c50a8-3c08-540b-9b40-d10ba1e733b3",
+        "event_price": 300,
+        "event_name": "Мастер-класс «Тауматроп»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "До 20 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1915764/igra-vokrug-da-okolo-knig",
         "event_img_url": "https://cdn.culture.ru/images/1b34e46f-f7f7-5151-aa90-6c989018373e",
         "event_price": 150,
-        "event_name": "Игра «Вокруг да около книг»",
+        "event_name": "Игра «Вокруг да около книг»",
         "event_place": "Борискинская сельская библиотека, филиал № 20",
-        "event_address": "Борискинская сельская библиотека, филиал № 20еще 5 мест",
+        "event_address": "Борискинская сельская библиотека, филиал № 20",
         "event_date": "30 сентября 2022 14:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2269658/kto-chto-est",
+        "event_img_url": "https://cdn.culture.ru/images/4697a9b5-1b3c-50e6-b8b5-808815da39aa",
+        "event_price": 0,
+        "event_name": "«Кто что ест»",
+        "event_place": "Урсалинская городская библиотека – филиал № 52",
+        "event_address": "Урсалинская городская библиотека – филиал № 52",
+        "event_date": "14 сентября 2022 12:30"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2263045/dvustoronnii-dialog-razgovor-o-muzhestve",
+        "event_img_url": "https://cdn.culture.ru/images/bcd4997b-ca7b-5933-a594-a6c6c4bfb1d3",
+        "event_price": 0,
+        "event_name": "Двусторонний диалог «Разговор о мужестве»",
+        "event_place": "Альметьевская библиотека – филиал № 3",
+        "event_address": "Альметьевская библиотека – филиал № 3",
+        "event_date": "14 сентября 2022 12:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2148697/koncert-tatarskaya-solyanka",
@@ -851,8 +770,26 @@
         "event_price": 600,
         "event_name": "Концерт «Татарская Солянка»",
         "event_place": "Концертный зал имени Сары Садыковой",
-        "event_address": "Концертный зал имени Сары Садыковойеще 1 место",
+        "event_address": "Концертный зал имени Сары Садыковой",
         "event_date": "15 сентября 2022 19:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1595648/master-klass-dudling",
+        "event_img_url": "https://cdn.culture.ru/images/a5f6b288-cd6f-5349-9956-1f1d8d2c6d86",
+        "event_price": 200,
+        "event_name": "Мастер-класс «Дудлинг»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "До 23 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1707999/igra-chto-gde-kogda-i-pochemu",
+        "event_img_url": "https://cdn.culture.ru/images/f00d635c-7093-5352-b5f0-9dbacf1d4b35",
+        "event_price": 150,
+        "event_name": "Игра «Что? Где? Когда? И почему?»",
+        "event_place": "Старосуркинская сельская библиотека – филиал № 48",
+        "event_address": "Старосуркинская сельская библиотека – филиал № 48",
+        "event_date": "23 сентября 2022 14:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2137223/tatarcha-solyanka",
@@ -864,13 +801,22 @@
         "event_date": "15 сентября 2022 19:00"
     },
     {
+        "event_url": "https://www.culture.ru/events/1346394/lekciya-mir-vverkh-tormashkami-flamandskie-poslovicy-pitera-breigelya-starshego",
+        "event_img_url": "https://cdn.culture.ru/images/28c2b329-603c-51c8-ae0d-a105740520f5",
+        "event_price": 200,
+        "event_name": "Лекция «Мир вверх тормашками. Фламандские пословицы Питера Брейгеля Старшего»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "15 сентября 2022 14:00"
+    },
+    {
         "event_url": "https://www.culture.ru/events/2223021/forum-stil-chteniya",
         "event_img_url": "https://cdn.culture.ru/images/d21a02d1-c242-558b-a271-0e6b332ab937",
         "event_price": 300,
         "event_name": "Форум «Стиль чтения»",
         "event_place": "Альметьевская библиотека – филиал № 3",
         "event_address": "Альметьевская библиотека – филиал № 3",
-        "event_date": "С 15 сентября 2022 и ещё 1 показ"
+        "event_date": "С 15 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/1548155/programma-stop-kadr",
@@ -878,8 +824,35 @@
         "event_price": 200,
         "event_name": "Программа «Стоп-кадр»",
         "event_place": "Детская библиотека – филиал № 11 п. Нижняя Мактама",
-        "event_address": "Детская библиотека – филиал № 11 п. Нижняя Мактамаеще 2 места",
+        "event_address": "Детская библиотека – филиал № 11 п. Нижняя Мактама",
         "event_date": "26 сентября 2022 14:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1340399/master-klass-airis-folding-raduzhnoe-skladyvanie",
+        "event_img_url": "https://cdn.culture.ru/images/940f4b26-7195-51ea-8d50-398b260f846a",
+        "event_price": 200,
+        "event_name": "Мастер-класс «Айрис-фолдинг» («Радужное складывание»)",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "До 24 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2262194/peredvizhnaya-vystavka-konkurs-art-sabantui",
+        "event_img_url": "https://cdn.culture.ru/images/50ec17e4-8798-55ca-97a1-16ea5addf036",
+        "event_price": 0,
+        "event_name": "Передвижная выставка-конкурс «Арт-Сабантуй»",
+        "event_place": "",
+        "event_address": "Респ. Татарстан, г. Альметьевск, Альметьевский р-н.,  Ленина 100",
+        "event_date": "С 15 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2262225/lekciya-poslednee-polotno-khudozhnika",
+        "event_img_url": "https://cdn.culture.ru/images/8533eb5c-0048-5972-8f2a-cb0fc13f02d3",
+        "event_price": 200,
+        "event_name": "Лекция «Последнее полотно художника»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "16 сентября 2022 14:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2254981/vstrecha-bibliotechnaya-krugosvetka-ocharovanie-anglii",
@@ -891,12 +864,48 @@
         "event_date": "16 сентября 2022 14:00"
     },
     {
+        "event_url": "https://www.culture.ru/events/1346448/viktorina-art-kviz",
+        "event_img_url": "https://cdn.culture.ru/images/ec106fcb-fe1a-5100-81e1-3e331e7cb5aa",
+        "event_price": 200,
+        "event_name": "Викторина «Арт-квиз»",
+        "event_place": "Альметьевская картинная галерея",
+        "event_address": "Альметьевская картинная галерея",
+        "event_date": "16 сентября 2022 15:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1262994/interaktivnoe-meropriyatie-v-gostyakh-u-fei-vremeni",
+        "event_img_url": "https://cdn.culture.ru/images/122c7588-82a7-5733-b10a-e6d8e1962d93",
+        "event_price": 50,
+        "event_name": "Интерактивное мероприятие «В гостях у Феи Времени»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 23 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1717715/ekskursiya-u-voiny-ne-zhenskoe-lico",
+        "event_img_url": "https://cdn.culture.ru/images/ee107197-930d-5e53-88c3-241ccd99fe58",
+        "event_price": 100,
+        "event_name": "Экскурсия «У войны не женское лицо»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/1340661/programma-tainy-predmetov",
+        "event_img_url": "https://cdn.culture.ru/images/60b71cf8-6ea6-5be1-9703-bf8d6edc805d",
+        "event_price": 100,
+        "event_name": "Программа «Тайны предметов»",
+        "event_place": "Альметьевский краеведческий музей",
+        "event_address": "Альметьевский краеведческий музей",
+        "event_date": "До 30 декабря 2022"
+    },
+    {
         "event_url": "https://www.culture.ru/events/1351852/balet-spyashaya-krasavica",
         "event_img_url": "https://cdn.culture.ru/images/2e9a0c45-00b1-5614-b958-8b73acb24baa",
         "event_price": 600,
         "event_name": "Балет «Спящая красавица»",
         "event_place": "Забайкальская краевая филармония",
-        "event_address": "Забайкальская краевая филармонияеще 8 мест",
+        "event_address": "Забайкальская краевая филармония",
         "event_date": "22 января 2023 17:00"
     },
     {
@@ -905,14 +914,14 @@
         "event_price": 600,
         "event_name": "Спектакль «Лебединое озеро»",
         "event_place": "Забайкальская краевая филармония",
-        "event_address": "Забайкальская краевая филармонияеще 44 места",
+        "event_address": "Забайкальская краевая филармония",
         "event_date": "24 октября 2022 19:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2255006/igra-puteshestvie-na-planetu-zip",
         "event_img_url": "https://cdn.culture.ru/images/6dd91c80-29d4-5955-b6cf-b6bcd78ae63e",
         "event_price": 300,
-        "event_name": "Игра «Путешествие на планету Зип»",
+        "event_name": "Игра «Путешествие на планету Зип»",
         "event_place": "Центральная библиотека им. С. Сулеймановой",
         "event_address": "Центральная библиотека им. С. Сулеймановой",
         "event_date": "20 сентября 2022 14:00"
@@ -921,7 +930,7 @@
         "event_url": "https://www.culture.ru/events/2260167/vystavka-poeziya-narodnogo-kostyuma",
         "event_img_url": "https://cdn.culture.ru/images/946b983e-9f2c-5968-9b95-42c6151605f8",
         "event_price": 200,
-        "event_name": "Выставка «Поэзия народного костюма».",
+        "event_name": "Выставка «Поэзия народного костюма»",
         "event_place": "Альметьевский краеведческий музей",
         "event_address": "Альметьевский краеведческий музей",
         "event_date": "21 сентября 2022 14:00"
@@ -930,7 +939,7 @@
         "event_url": "https://www.culture.ru/events/2255028/kvest-v-poiskakh-udachi-ostrov-sokrovish",
         "event_img_url": "https://cdn.culture.ru/images/379ca85f-d169-50f1-8967-073e0f5a489f",
         "event_price": 300,
-        "event_name": "Квест «В поисках удачи. Остров сокровищ»",
+        "event_name": "Квест «В поисках удачи. Остров сокровищ»",
         "event_place": "Центральная библиотека им. С. Сулеймановой",
         "event_address": "Центральная библиотека им. С. Сулеймановой",
         "event_date": "22 сентября 2022 14:00"
@@ -959,7 +968,7 @@
         "event_price": 150,
         "event_name": "Встреча «Где логика?»",
         "event_place": "Верхнеакташская сельская библиотека-филиал № 24",
-        "event_address": "Верхнеакташская сельская библиотека-филиал № 24еще 1 место",
+        "event_address": "Верхнеакташская сельская библиотека-филиал № 24",
         "event_date": "30 сентября 2022 14:00"
     },
     {
@@ -972,13 +981,31 @@
         "event_date": "24 сентября 2022 19:00"
     },
     {
+        "event_url": "https://www.culture.ru/events/2264560/kvest-tradicii-zhivaya-nit",
+        "event_img_url": "https://cdn.culture.ru/images/81d5cd0c-a76a-5c52-9c75-b410c453b131",
+        "event_price": 300,
+        "event_name": "Квест «Традиции живая нить»",
+        "event_place": "Специализированная детская библиотека-филиал № 8 им. Р. Тухватуллина",
+        "event_address": "Специализированная детская библиотека-филиал № 8 им. Р. Тухватуллина",
+        "event_date": "27 сентября 2022 14:00"
+    },
+    {
         "event_url": "https://www.culture.ru/events/2221676/master-klass-sdelai-mylo-sam",
         "event_img_url": "https://cdn.culture.ru/images/deeebe2d-6611-57a9-8e95-25ce67145d21",
         "event_price": 500,
         "event_name": "Мастер-класс «Сделай мыло сам»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
-        "event_date": "До 30 сентября 2022 и ещё 2 показа"
+        "event_date": "До 30 сентября 2022"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2267523/zanyatie-zanimatelnaya-muzyka",
+        "event_img_url": "https://cdn.culture.ru/images/b8d48c9f-5589-514d-b4af-c8d1c983fdd6",
+        "event_price": 200,
+        "event_name": "Занятие «Занимательная музыка»",
+        "event_place": "Детская музыкальная школа № 2 г. Альметьевска",
+        "event_address": "Детская музыкальная школа № 2 г. Альметьевска",
+        "event_date": "28 сентября 2022 18:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2232726/koncert-dorogoyu-dobra",
@@ -993,7 +1020,7 @@
         "event_url": "https://www.culture.ru/events/1850555/vstrecha-sledstvie-nachinaetsya-v-biblioteke",
         "event_img_url": "https://cdn.culture.ru/images/f819ffa1-8284-5177-a5ce-6a3e321c3700",
         "event_price": 300,
-        "event_name": "Встреча «Следствие начинается в библиотеке»",
+        "event_name": "Встреча «Следствие начинается в библиотеке»",
         "event_place": "Центральная библиотека им. С. Сулеймановой",
         "event_address": "Центральная библиотека им. С. Сулеймановой",
         "event_date": "28 сентября 2022 14:00"
@@ -1002,10 +1029,10 @@
         "event_url": "https://www.culture.ru/events/2223115/programma-puteshestvie-po-planetam-solnechnoi-sistemy",
         "event_img_url": "https://cdn.culture.ru/images/bdf97fa8-52b1-51eb-a08c-267e60b52060",
         "event_price": 600,
-        "event_name": "Программа «Путешествие по планетам Солнечной системы»",
+        "event_name": "Программа «Путешествие по планетам Солнечной системы»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
-        "event_date": "До 30 сентября 2022 и ещё 2 показа"
+        "event_date": "До 30 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/2221689/master-klass-raskras-kartinu",
@@ -1014,13 +1041,13 @@
         "event_name": "Мастер-класс «Раскрась картину»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
-        "event_date": "До 30 сентября 2022 и ещё 2 показа"
+        "event_date": "До 30 сентября 2022"
     },
     {
         "event_url": "https://www.culture.ru/events/2212291/ivan-abramov-novoe-i-luchshee",
         "event_img_url": "https://cdn.culture.ru/images/2e28d78f-3ca0-55df-976b-e30c40f2e313",
         "event_price": 1200,
-        "event_name": "Иван Абрамов. Новое и лучшее.",
+        "event_name": "Иван Абрамов. Новое и лучшее.",
         "event_place": "Дворец культуры «Нефтьче»",
         "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "29 сентября 2022 19:00"
@@ -1029,7 +1056,7 @@
         "event_url": "https://www.culture.ru/events/1606535/ekskursiya-poidem-v-muzei",
         "event_img_url": "https://cdn.culture.ru/images/916e5129-1fbb-503a-978e-622188f7d828",
         "event_price": 150,
-        "event_name": "Экскурсия «Пойдем в музей»",
+        "event_name": "Экскурсия «Пойдем в музей»",
         "event_place": "Специализированная детская библиотека-филиал № 8 им. Р. Тухватуллина",
         "event_address": "Специализированная детская библиотека-филиал № 8 им. Р. Тухватуллина",
         "event_date": "29 сентября 2022 14:00"
@@ -1056,7 +1083,7 @@
         "event_url": "https://www.culture.ru/events/1657245/vstrecha-progulki-s-pechorinym",
         "event_img_url": "https://cdn.culture.ru/images/46308a3b-48d8-5184-aa6c-b15ac89d5767",
         "event_price": 300,
-        "event_name": "Встреча «Прогулки с Печориным»",
+        "event_name": "Встреча «Прогулки с Печориным»",
         "event_place": "Центральная библиотека им. С. Сулеймановой",
         "event_address": "Центральная библиотека им. С. Сулеймановой",
         "event_date": "30 сентября 2022 14:00"
@@ -1074,7 +1101,7 @@
         "event_url": "https://www.culture.ru/events/2222220/programma-turnir-po-nastolnym-igram",
         "event_img_url": "https://cdn.culture.ru/images/a30ee177-969c-53e3-92a8-0132169e737d",
         "event_price": 350,
-        "event_name": "Программа «Турнир по настольным играм»",
+        "event_name": "Программа «Турнир по настольным играм»",
         "event_place": "Lounge 3D Cinema",
         "event_address": "Lounge 3D Cinema",
         "event_date": "1 октября 2022 17:00"
@@ -1089,6 +1116,24 @@
         "event_date": "2 октября 2022 18:00"
     },
     {
+        "event_url": "https://www.culture.ru/events/2226606/muzykalnaya-skazka-kot-v-sapogakh",
+        "event_img_url": "https://cdn.culture.ru/images/d6be3415-e0d4-5230-a9be-03d1b1ccc277",
+        "event_price": 400,
+        "event_name": "Музыкальная сказка «Кот в сапогах»",
+        "event_place": "Дворец культуры «Железнодорожник» г. Тюмени",
+        "event_address": "Дворец культуры «Железнодорожник» г. Тюмени",
+        "event_date": "12 октября 2022 14:00"
+    },
+    {
+        "event_url": "https://www.culture.ru/events/2195547/operetta-fialka-monmartra",
+        "event_img_url": "https://cdn.culture.ru/images/9ccdd282-a4dd-54cc-a047-ad1fa219165f",
+        "event_price": 800,
+        "event_name": "Оперетта «Фиалка Монмартра»",
+        "event_place": "ГАУ «Курганская областная филармония»",
+        "event_address": "ГАУ «Курганская областная филармония»",
+        "event_date": "12 октября 2022 19:00"
+    },
+    {
         "event_url": "https://www.culture.ru/events/2137216/aleksandr-rozembaum",
         "event_img_url": "https://cdn.culture.ru/images/814c29eb-f044-5fdf-b343-9361bb7f33be",
         "event_price": 1800,
@@ -1096,15 +1141,6 @@
         "event_place": "Дворец культуры «Нефтьче»",
         "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "8 октября 2022 19:00"
-    },
-    {
-        "event_url": "https://www.culture.ru/events/2195547/operetta-fialka-monmartra",
-        "event_img_url": "https://cdn.culture.ru/images/9ccdd282-a4dd-54cc-a047-ad1fa219165f",
-        "event_price": 800,
-        "event_name": "Оперетта «Фиалка Монмартра»",
-        "event_place": "Дом техники г. Бугульмы",
-        "event_address": "Дом техники г. Бугульмыеще 2 места",
-        "event_date": "12 октября 2022 19:00"
     },
     {
         "event_url": "https://www.culture.ru/events/2212324/pervaya-zvezdnaya-diskoteka",
@@ -1121,7 +1157,7 @@
         "event_price": 1200,
         "event_name": "Концерт «ДиДюЛя & камерный оркестр»",
         "event_place": "Дворец культуры «Нефтьче»",
-        "event_address": "Дворец культуры «Нефтьче»еще 1 место",
+        "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "15 октября 2022 18:00"
     },
     {
@@ -1139,7 +1175,7 @@
         "event_price": 1000,
         "event_name": "Концерт Андрея Бебуришвили",
         "event_place": "Дворец культуры им. Якова Ухсая",
-        "event_address": "Дворец культуры им. Якова Ухсаяеще 1 место",
+        "event_address": "Дворец культуры им. Якова Ухсая",
         "event_date": "7 ноября 2022 19:00"
     },
     {
@@ -1155,7 +1191,7 @@
         "event_url": "https://www.culture.ru/events/2137286/rene-de-la-garde-franciya-s-programmoi-pod-nebom-parizha",
         "event_img_url": "https://cdn.culture.ru/images/a3398661-611c-5034-9e76-7f74ca70186a",
         "event_price": 700,
-        "event_name": "RENE DE LA GARDE (Франция) с программой «Под небом Парижа»",
+        "event_name": "RENE DE LA GARDE (Франция) с программой «Под небом Парижа»",
         "event_place": "Дворец культуры «Нефтьче»",
         "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "21 октября 2022 19:00"
@@ -1179,12 +1215,21 @@
         "event_date": "29 октября 2022 19:00"
     },
     {
+        "event_url": "https://www.culture.ru/events/2219086/spektakl-evgenii-onegin",
+        "event_img_url": "https://cdn.culture.ru/images/d5fdcfb6-b8c7-502d-8f53-179cf85ef1e2",
+        "event_price": 1000,
+        "event_name": "Спектакль «Евгений Онегин»",
+        "event_place": "Татарская государственная филармония им. Г. Тукая",
+        "event_address": "Татарская государственная филармония им. Г. Тукая",
+        "event_date": "3 ноября 2022 19:00"
+    },
+    {
         "event_url": "https://www.culture.ru/events/1545537/spektakl-ballada-o-vysockom",
         "event_img_url": "https://cdn.culture.ru/images/2d2c8549-be04-519b-89c7-6b151b2bd304",
         "event_price": 1000,
-        "event_name": "Спектакль «Баллада о Высоцком»",
+        "event_name": "Спектакль «Баллада о Высоцком»",
         "event_place": "Дворец культуры «Нефтьче»",
-        "event_address": "Дворец культуры «Нефтьче»еще 1 место",
+        "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "5 ноября 2022 19:00"
     },
     {
@@ -1209,7 +1254,7 @@
         "event_url": "https://www.culture.ru/events/2137257/ilsiya-badretdinova-20-el-inde-se",
         "event_img_url": "https://cdn.culture.ru/images/39c0c379-1d93-5161-b195-a95335028b69",
         "event_price": 900,
-        "event_name": "Ильсия Бадретдинова «20 ЕЛ ИНДЕ СЕ…»",
+        "event_name": "Ильсия Бадретдинова «20 ЕЛ ИНДЕ СЕ…»",
         "event_place": "Дворец культуры «Нефтьче»",
         "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "18 ноября 2022 19:00"
@@ -1220,7 +1265,7 @@
         "event_price": 1100,
         "event_name": "Балет «Щелкунчик»",
         "event_place": "Дом народного творчества г. Нижнекамска",
-        "event_address": "Дом народного творчества г. Нижнекамскаеще 6 мест",
+        "event_address": "Дом народного творчества г. Нижнекамска",
         "event_date": "3 декабря 2022 19:00"
     },
     {
@@ -1245,27 +1290,27 @@
         "event_url": "https://www.culture.ru/events/1474705/spektakl-master-i-margarita",
         "event_img_url": "https://cdn.culture.ru/images/6b512b8e-bff5-5e84-942d-39de6246c870",
         "event_price": 800,
-        "event_name": "Спектакль «Мастер и Маргарита»",
+        "event_name": "Спектакль «Мастер и Маргарита»",
         "event_place": "Дворец культуры «Нефтьче»",
-        "event_address": "Дворец культуры «Нефтьче»еще 1 место",
+        "event_address": "Дворец культуры «Нефтьче»",
         "event_date": "5 февраля 2023 18:00"
     },
     {
         "event_url": "https://www.culture.ru/events/1527192/myuzikl-shou-notr-dam-de-pari-i-romeo-i-dzhuletta",
         "event_img_url": "https://cdn.culture.ru/images/967b4752-c6d0-5ce3-9263-bbea3a0f3981",
         "event_price": 800,
-        "event_name": "Мюзикл-шоу «Нотр Дам де Пари» и «Ромео и Джульетта»",
+        "event_name": "Мюзикл-шоу «Нотр Дам де Пари» и «Ромео и Джульетта»",
         "event_place": "Дворец культуры «КамАЗ» г. Набережные Челны",
-        "event_address": "Дворец культуры «КамАЗ» г. Набережные Челныеще 1 место",
+        "event_address": "Дворец культуры «КамАЗ» г. Набережные Челны",
         "event_date": "1 марта 2023 19:00"
     },
     {
         "event_url": "https://www.culture.ru/events/1985852/masterskaya-lichnostnogo-rosta-my-edinaya-komanda",
         "event_img_url": "https://cdn.culture.ru/images/f995a559-e616-5ac1-827d-c01897d46425",
         "event_price": 400,
-        "event_name": "Мастерская личностного роста «Мы единая команда»",
+        "event_name": "Мастерская личностного роста «Мы единая команда»",
         "event_place": "Молодежный подростковый клуб «Воздух»",
         "event_address": "Молодежный подростковый клуб «Воздух»",
-        "event_date": "С 26 мая 2023 и ещё 187 показов"
+        "event_date": "С 26 мая 2023"
     }
 ]
