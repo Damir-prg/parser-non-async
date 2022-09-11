@@ -34,7 +34,7 @@ def sort_posts(posts):
         sorted_post['id'] = post['id']
 
         try:
-            sorted_post['text'] = ''.join(char for char in post['text'] if not is_emoji(char))
+            sorted_post['text'] = ''.join(char for char in post['text'] if not is_emoji(char) or char == '‍')
         except:
             sorted_post['text'] = 'none'
 
